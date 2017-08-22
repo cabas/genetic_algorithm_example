@@ -1,0 +1,4 @@
+# List of packages used in this project
+--index-url https://pypi.python.org/simple/
+
+colorama==0.3.9
